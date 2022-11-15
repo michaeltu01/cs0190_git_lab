@@ -1,6 +1,3 @@
 what is your favorite food?
-<<<<<<< HEAD
 I don't like your food
-=======
 
->>>>>>> 3eb8e5b62715bac5cf056abd9909f560c1d41832
