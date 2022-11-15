@@ -2,6 +2,8 @@ this is a test!
 <<<<<<< HEAD
 
 this is not a question!
+
+shame on you, Kelvin!
 =======
 this is not a question!
 >>>>>>> 7db3785c3069553ea6788f0f2a15d8fbd1d037ca
